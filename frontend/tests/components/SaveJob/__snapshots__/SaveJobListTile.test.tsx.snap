@@ -1,0 +1,85 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`SaveJobListTile > matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="my-3"
+  >
+    <div
+      class="p-3 bg-white rounded-xl shadow-sm border-white border"
+    >
+      <div
+        class="flex flex-row"
+      >
+        <div
+          class="w-4/6 "
+        >
+          <div
+            class="w-fit bg-[#FF2A2A]/10 rounded-2xl px-3 py-0"
+          >
+            <p
+              class="inline text-xs"
+            >
+              NC STATE DINING
+            </p>
+          </div>
+          <div
+            class="h-1"
+          />
+          <div
+            class="pl-2"
+          >
+            <p
+              class="text-base"
+            >
+              <b>
+                Role:
+              </b>
+               Software Developer
+            </p>
+            <p
+              class="text-base"
+            >
+              <b>
+                Job Status:
+              </b>
+              <span
+                class="text-[#FF5353]"
+              >
+                 
+                <span
+                  class="capitalize"
+                >
+                  closed
+                </span>
+              </span>
+            </p>
+            <p
+              class="text-base"
+            >
+              <b>
+                Type:
+              </b>
+               
+              <span
+                class="capitalize"
+              >
+                 full time 
+              </span>
+            </p>
+          </div>
+        </div>
+        <div
+          class="w-2/6 flex flex-col-reverse text-right"
+        >
+          <p
+            class="text-3xl"
+          >
+            100$/hr
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
